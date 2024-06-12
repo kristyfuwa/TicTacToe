@@ -1,0 +1,17 @@
+{
+"GameTitle":"井字棋游戏",
+"StartGame":"开始游戏",
+"GameOverOK":"确定",
+"SingleMode":"人机对战",
+"OnlineMode":"联机对战",
+"OnlineModeNotOpen":"联机模式暂时没开放，敬请期待",
+"CurrentGamePlayer":"当前回合:",
+"MessageBoxTitleLbl":"提示",
+"MessageBoxOkLbl":"确定",
+"MessageBoxSaveLbl":"保存",
+"MessageBoxCancelLbl":"取消",
+"MessageBoxDiscardLbl":"不保存",
+"MessageBoxYesLbl":"是",
+"MessageBoxNoLbl":"否",
+"ExistGame":"退出游戏"
+}
